@@ -1,0 +1,23 @@
+
+
+.navbar {
+    background-color: #051622 !important;
+}
+
+.navbar-brand {
+    color: #DEB992 !important;
+}
+
+.navbar-toggler-icon {
+    background-color: #DEB992 !important;
+}
+
+.btn-outline-light {
+    color: #DEB992;
+    border-color: #DEB992;
+}
+
+.btn-outline-light:hover {
+    background-color: #DEB992;
+    color: #051622;
+}

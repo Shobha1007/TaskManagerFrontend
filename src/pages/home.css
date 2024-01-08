@@ -1,0 +1,54 @@
+body {
+    background-image: url('dark_bg2.jpg');
+    background-size: cover;
+    /* background-color:#1BA098; */
+    opacity: 0.8;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Ensure the background covers the entire viewport height */
+    margin: 0; /* Remove default body margin */
+    padding: 0; /* Remove default body padding */
+}
+
+.container {
+    margin-top: 2rem;
+    /* background-color: #DEB992; */
+
+}
+
+.py-4 {
+    margin-bottom: 2rem;
+}
+
+.Table {
+    background-color: #041c2d;
+    border-color: #DEB992;
+    color: #DEB992;
+}
+
+.Table th,
+.Table td {
+    border-color: #1BA098;
+}
+
+.btn-outline-primary {
+    color: #1BA098;
+    border-color: #1BA098;
+}
+
+.btn-outline-primary:hover {
+    background-color: #1BA098;
+    color: #051622;
+}
+
+.btn-danger {
+    background-color: #DEB992;
+    color: #051622;
+    border-color: #DEB992;
+}
+
+.btn-danger:hover {
+    background-color: #051622;
+    color: #DEB992;
+    border-color: #051622;
+}
